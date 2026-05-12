@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Danny Joaquin
 
-**Full‑stack developer
+**Full‑stack developer**
 
 I'm a full‑stack developer from Tegucigalpa, Honduras passionate about building modern web and mobile applications. I love designing solutions end‑to‑end, from UI/UX to database design, and I'm always exploring new technologies.
 
