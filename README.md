@@ -6,7 +6,7 @@ I'm a full‑stack developer from Tegucigalpa, Honduras passionate about buildin
 
 ## 🔗 Contact
 
-- 📧 Email: [dannycantarero3@gmail.com](mailto:dannycantarero3@gmail.com)
+- 📧 Email: [dannycantarero2@gmail.com](mailto:dannycantarero2@gmail.com)
 
 ## 📊 GitHub Stats
 
