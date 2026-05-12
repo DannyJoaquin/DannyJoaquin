@@ -70,4 +70,4 @@ I'm a full‑stack developer from Tegucigalpa, Honduras passionate about buildin
 
 ---
 
-*Last updated: May 12, 2026*
+
