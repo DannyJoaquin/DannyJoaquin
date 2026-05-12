@@ -53,10 +53,10 @@ I'm a full‑stack developer from Tegucigalpa, Honduras passionate about buildin
 
 ## 🚀 Projects
 
-- **Clinica-app** – A TypeScript-based clinic management system for managing patients, appointments, prescriptions, payments, and role-based access.  
+- **ClinicFlow** – A TypeScript-based clinic management system for managing patients, appointments, prescriptions, payments, and role-based access.  
   [Repo](https://github.com/DannyJoaquin/Clinica-app)
 
-- **finanzas-latam** – A Flutter/Dart personal finance app focused on expense tracking, budgeting, alerts, and financial insights for Latin America.  
+- **Zentri** – A Flutter/Dart personal finance app focused on expense tracking, budgeting, alerts, and financial insights for Latin America.  
   [Repo](https://github.com/DannyJoaquin/finanzas-latam)
 
 - **JSON Generator DM** – A tool for generating structured JSON payloads to speed up API testing and decision model validations.  
