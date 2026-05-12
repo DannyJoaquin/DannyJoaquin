@@ -60,7 +60,7 @@ I'm a full‑stack developer from Tegucigalpa, Honduras passionate about buildin
   [Repo](https://github.com/DannyJoaquin/finanzas-latam)
 
 - **JSON Generator DM** – A tool for generating structured JSON payloads to speed up API testing and decision model validations.  
-  [Repo](https://github.com/DannyJoaquin/JSON-Generator-DM)
+  [Repo](https://github.com/DannyJoaquin/JSON-Generator-DM)  --PRIVATE 
 
 ## 🎵 In my down time
 
