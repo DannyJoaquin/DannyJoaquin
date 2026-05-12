@@ -4,6 +4,8 @@
 
 I'm a full‑stack developer from Tegucigalpa, Honduras passionate about building modern web and mobile applications. I love designing solutions end‑to‑end, from UI/UX to database design, and I'm always exploring new technologies.
 
+> Note: This is my new GitHub profile. I recently migrated to this account, so some repositories and contribution history are still being rebuilt and organized.
+
 ## 🔗 Contact
 
 - 📧 Email: [dannycantarero2@gmail.com](mailto:dannycantarero2@gmail.com)
